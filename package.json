@@ -1,0 +1,1 @@
+{\n  "name": "hemant-aacharya-portfolio",\n  "version": "1.0.0",\n  "homepage": "https://hemantanaxa-ui.github.io/hemant-aacharya-portfolio/",\n  "scripts": {\n    "deploy": "gh-pages -d build"\n  },\n  "dependencies": {},\n  "devDependencies": {\n    "gh-pages": "^4.0.0"\n  }\n}
